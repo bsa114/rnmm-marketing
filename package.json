@@ -1,0 +1,10 @@
+{
+  "name": "rnmm-marketing-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ассистент руководителя маркетинга РНММ — статический фронтенд + serverless-прокси к OpenRouter на Vercel",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
